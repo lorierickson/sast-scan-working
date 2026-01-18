@@ -16,3 +16,4 @@ PyGithub>=1.59
 PyYAML
 blint
 packaging
+lief>=0.17.2 # not directly required, pinned by Snyk to avoid a vulnerability
