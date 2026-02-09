@@ -1,4 +1,4 @@
-FROM python:3.9
+FROM python:3.14.3
 
 LABEL maintainer="ShiftLeftSecurity" \
       org.label-schema.schema-version="1.0" \
